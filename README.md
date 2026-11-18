@@ -28,3 +28,7 @@ Open any of the HTML files in a browser to preview that design. `index.html` is 
 ## About this repository
 
 Public repository: https://github.com/bookspk002-debug/huntsville-chimney-sweep
+
+## Full site
+
+The complete 26-page site is published in this repository: service pages, suburb pages, a cost guide and blog posts, deployed on Netlify.
