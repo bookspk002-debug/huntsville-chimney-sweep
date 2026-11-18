@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://steady-gumdrop-6232eb.netlify.app/sitemap.xml
